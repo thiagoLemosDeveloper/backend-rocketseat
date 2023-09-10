@@ -2,10 +2,6 @@
   <h1 align="center"><a href="https://food-explorer-vasc-333.netlify.app/">🍴 Food Explorer - Rocketseat 🍴</a></h1>
 </p>
 
-![Imagem do WhatsApp de 2023-06-15 à(s) 01 11 24](https://github.com/EvelymVasconcellos/FoodExplorer-FrontEnd/assets/65794544/d1edf45e-230c-469f-bf2d-b0e43b7bb895)
-
-
-
 ## 📝 Sobre
 
 O Food Explorer é uma plataforma web abrangente para um restaurante, oferecendo aos usuários uma experiência completa de pedido e acompanhamento. Com recursos de cadastro, criação de pedidos e acompanhamento de status, os usuários podem facilmente realizar e controlar suas escolhas. A personalização do perfil, a filtragem de favoritos e a busca ajudam a tornar a experiência mais conveniente e personalizada para cada usuário.
@@ -31,7 +27,7 @@ ___
 Clone o projeto para o seu computador.
 
 ```bash
-$ git clone git@github.com:EvelymVasconcellos/FoodExplorer-Backend.git
+$ git clone git@github.com:thiagoLemosDeveloper/backend-rocketseat.git
 ```
 ___ 
 
